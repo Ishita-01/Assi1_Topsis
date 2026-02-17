@@ -94,6 +94,7 @@ Users can install the package using pip and execute TOPSIS directly via CLI.
 - Package Name: Topsis-Ishita-102317254
 - Version: 1.0.1
 - License: MIT
+- Pypi Link: https://pypi.org/project/Topsis-Ishita-102317254/1.0.2/
 
 ## Installation
 ```
